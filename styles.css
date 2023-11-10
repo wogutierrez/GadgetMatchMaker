@@ -1,7 +1,17 @@
+
 body {
+  background-color: rgb(56, 54, 54);
+}
+
+  .menuContainer {
     background-image: url("motherboard-1219352_1280.jpg");
-    padding: 20px
+    padding: 20px;
+    background-repeat: no-repeat;
+    margin: 5% 20%;
+    border-radius: 20px ;
+    min-width: 500px
   }
+
   
   h1, h2, p {
     text-align: center;
@@ -19,7 +29,7 @@ hr{
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  max-width: 800px;
+  max-width: 800px
 }
 
 footer{
